@@ -129,7 +129,7 @@ def main() -> None:
         choice = (input("\nDo you want to Continue(s/q): ")).lower()
         while choice not in ["s", "q"]:  # Handles Invalid choice input
             print("Invalid choice entry")
-            choice = input("\nDo you want to Continue(s/q):")
+            choice = input("\nDo you want to Continue(s/q): ")
 
 
 main()
