@@ -81,7 +81,7 @@ def quiz_remark(overall_score: int) -> None:
         print("Outstanding !!!")
     elif overall_score == 0:
         print("Extremely Poor")
-    elif overall_score < 3:
+    elif overall_score < 4:
         print("Needs Improvement")
     elif overall_score < 7:
         print("Good Attempt !")

@@ -36,8 +36,8 @@ python3 main.py
 |---------|-------------------|
 | 10/10   | Outstanding !!!   |
 |   7-9   | Excellent !!      |
-|   3-6   | Good Attempt !    |
-|   1-2   | Needs Improvement |
+|   4-6   | Good Attempt !    |
+|   1-3   | Needs Improvement |
 |     0   | Extremely Poor    |
 
 
